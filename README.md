@@ -53,8 +53,8 @@ Backend and Systems Engineer.
 
 <div align=center>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZZunyoung&show_icons=true&theme=default&count_private=true&hide=stars&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZZunyoung&show_icons=true&theme=default&count_private=true&hide=stars&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZunyoung&layout=compact&theme=default" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZZunyoung&layout=compact&theme=default&cache_seconds=86400" alt="Top Languages" />
 
 </div>
