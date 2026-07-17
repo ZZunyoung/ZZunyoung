@@ -27,7 +27,6 @@ Backend and Systems Engineer.
 
 <h4>Auth & Security</h4>
 <img src="https://img.shields.io/badge/keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
 <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white">
 
 <h4>Cloud & Infra</h4>
