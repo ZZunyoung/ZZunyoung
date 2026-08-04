@@ -1,11 +1,11 @@
 # Hi, I'm Junyoung Park 👋
 
-Backend and Systems Engineer.
+Backend Engineer.
 
+- 🔐 Built and operated IAM infrastructure with Keycloak for two SaaS products — design through production
 - 🛠️ Server development in Java/Python and operations on Ubuntu/Docker environments
 - 🌐 Interested in microservice architecture and inter-service communication patterns
 - ☁️ Experienced with AWS-based deployment and CI/CD automation
-
 ---
 
 <div align=left><h2>📚 Stacks</h2></div>
@@ -15,7 +15,6 @@ Backend and Systems Engineer.
 <h4>Languages</h4>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/>
 
 <h4>Frameworks</h4>
 <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -36,7 +35,6 @@ Backend and Systems Engineer.
 <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 
 <h4>Databases</h4>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
